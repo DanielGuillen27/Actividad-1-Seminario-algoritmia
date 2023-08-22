@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1692216762 source:c:\users\usuario\documents\actividad 1. repaso de programacion\actividad_1._repaso_de_programacion\main.cpp
+	<iostream>
+	"paquete.hpp"
+
+1692217626 c:\users\usuario\documents\actividad 1. repaso de programacion\actividad_1._repaso_de_programacion\paquete.hpp
+	<string>
+
+1692215729 source:c:\users\usuario\documents\actividad 1. repaso de programacion\actividad_1._repaso_de_programacion\paquete.cpp
+	"paquete.hpp"
+
+1692678858 source:c:\actividades seminario algoritmia\actividad_1._repaso_de_programacion\paquete.cpp
+	"paquete.hpp"
+	<fstream>
+
+1692678551 c:\actividades seminario algoritmia\actividad_1._repaso_de_programacion\paquete.hpp
+	<fstream>
+	<string>
+
+1692675034 source:c:\actividades seminario algoritmia\actividad_1._repaso_de_programacion\main.cpp
+	<iostream>
+	<string>
+	"paquete.hpp"
+	"paqueteria.hpp"
+
+1692676925 c:\actividades seminario algoritmia\actividad_1._repaso_de_programacion\paqueteria.hpp
+	<fstream>
+	<istream>
+	<exception>
+	<string>
+
